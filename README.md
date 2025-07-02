@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anandptl&label=Profile%20views&color=0e75b6&style=flat" alt="anandptl" /> </p>
 
-- 🔭 I have completed a project [Library Management System](https://github.com/anandptl/Library_Management_System.git)
+- 🔭 I have completed some project.
 
 - 🌱 I’m currently learning **Spring Boot**
 
